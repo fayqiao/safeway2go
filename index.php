@@ -23,9 +23,13 @@
 
 <script src="script/script.js"></script>
 
+<script src="script/fakeLoader.min.js"></script>
+
 <link rel="stylesheet" href="css/bootstrap-datetimepicker.min.css">
 
 <link rel="stylesheet" href="css/style.css">
+
+<link rel="stylesheet" href="css/loading.css">
 
 <link href='http://fonts.googleapis.com/css?family=Coming+Soon' rel='stylesheet' type='text/css'>
 
@@ -34,6 +38,7 @@
 </head>
 
 <body>
+<div id="fakeLoader"></div>
 <div id="bodyFrame" class="col-lg-12">
 	<div id="header" class="col-lg-12">
 		<div id="logo" class="col-lg-6">
