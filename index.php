@@ -207,12 +207,7 @@
 				<p><hr/></p>
 				<p>
 					<span><img src="images/point.png" title="point" alt="point"></span>
-					&nbsp;Turn left towards Florence St&nbsp;-&nbsp;<small><em>127 m</em></small>
-				</p>
-				<p><hr/></p>
-				<p>
-					<span><img src="images/point.png" title="point" alt="point"></span>
-					&nbsp;Continue onto Florence St&nbsp;-&nbsp;<small><em>300 m</em></small>
+					&nbsp;Turn left towards Florence St&nbsp;-&nbsp;<small><em>427 m</em></small>
 				</p>
 				<p><hr/></p>
 				<p>
@@ -262,10 +257,12 @@
 				<h3><span><img src="images/left203.png" alt="tips" height="24px;" width="24px;"></span>&nbsp;tips</h3>
 				<p><hr/></p>
 				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;66% route has <strong><em>walking trail</em></strong> or <strong><em>footpath</em></strong></p>
+				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;55% route has <strong><em>bike paths</em></strong></p>
 				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;85% road crossing has <strong><em>traffic signals</em></strong></p>
 				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;58% route in the <strong><em>residential area (40km Zone)</em></strong></p>
 				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;31% route in the <strong><em>residential area (50km Zone)</em></strong></p>
 				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;58% route do not have road accident in past 12 months</p>
+				<p><span><img src="images/lightbulb16.png" title="lightbulb" alt="lightbulb" width="20px" height="20px"></span>&nbsp;The closest <strong><em>bike rack</em></strong> is only 50 meters away.</p>
 			</div>
 		</div>
 		<div id="suggestions" class="col-lg-3">
